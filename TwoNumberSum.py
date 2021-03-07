@@ -1,3 +1,10 @@
+'''
+Vikas Bhat
+Two Sum
+Time Complexity o(N)
+'''
+
+
 class Practice:
 
     def twoSum(self,lis,target):
